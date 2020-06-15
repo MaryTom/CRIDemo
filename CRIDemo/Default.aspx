@@ -17,7 +17,7 @@
 <table >
 <tr>
 <td colspan="2">
-<img align="left"  alt="" src="App_Themes/AllTrucks.jpg"  name="slide" width="550" height="380" />&nbsp
+<img align="left"  alt="" src="AllTrucks.jpg"  name="slide" width="550" height="380" />&nbsp
 </td>
 </tr>
 </table>
