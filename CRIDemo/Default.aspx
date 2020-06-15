@@ -3,40 +3,26 @@
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
 
     <div class="jumbotron">
-        <h1>ASP.NET</h1>
-        <p class="lead">ASP.NET is a free web framework for building great Web sites and Web applications using HTML, CSS and JavaScript.</p>
+        <h1>CRI Rubbers</h1>
+        <p class="lead">Manufacturer / Distributor of Precured Tread Rubber, Cushion Gum and Strip Rubber for Commercial Truck Retreading, USA & Canada.</p>
         <p><a href="http://www.asp.net" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
     </div>
 
     <div class="row">
-        <div class="col-md-4">
-            <h2>Getting Started</h2>
-            <p>
-                ASP.NET Web Forms lets you build dynamic websites using a familiar drag-and-drop, event-driven model.
-            A design surface and hundreds of controls and components let you rapidly build sophisticated, powerful UI-driven sites with data access.
-            </p>
-            <p>
-                <a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301948">Learn more &raquo;</a>
-            </p>
-        </div>
-        <div class="col-md-4">
-            <h2>Get more libraries</h2>
-            <p>
-                NuGet is a free Visual Studio extension that makes it easy to add, remove, and update libraries and tools in Visual Studio projects.
-            </p>
-            <p>
-                <a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301949">Learn more &raquo;</a>
-            </p>
-        </div>
-        <div class="col-md-4">
-            <h2>Web Hosting</h2>
-            <p>
-                You can easily find a web hosting company that offers the right mix of features and price for your applications.
-            </p>
-            <p>
-                <a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301950">Learn more &raquo;</a>
-            </p>
-        </div>
+       <div>
+<span style=" background-color:#ffffff;font-family: Georgia; font-size:small; "><br /><br />
+    <br />
+      We sell top quality and cost effective Cap and Casings / Retreaded truck tires for commercial fleet services in North America.</span>
+    <br /><br />
+<table >
+<tr>
+<td colspan="2">
+<img align="left"  alt="" src="App_Themes/AllTrucks.jpg"  name="slide" width="550" height="380" />&nbsp
+</td>
+</tr>
+</table>
+</div>
+       
     </div>
 
 </asp:Content>
